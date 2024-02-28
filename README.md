@@ -1,6 +1,6 @@
 # Hi 👋 My name is Harshad Kadam
 
-Full Stack Devloper || [Apigee + ReactJs + Spring Boot + NOdeJs]
+Full Stack Devloper || [Apigee + ReactJs + Spring Boot + NodeJs]
 -------------------
 
 *   🌱 I’m currently learning cutting Edge Technologies like GenAI, Web3
