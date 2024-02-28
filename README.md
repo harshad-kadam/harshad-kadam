@@ -24,14 +24,17 @@ Programming Languages:
 > • Advance: Java, Javascript
 > • Intermediate: c++
 > • Novice: c, python
+
 Frameworks and Libraries: 
 > • Spring Boot • React Js • Node Js
 > • Jest • JSLint • ApigeeLint • GCP
+
 Tools and Technologies: 
 > • Apigee • Postman • Swagger • GitHub
 > • Beeceptor • Bigquery • Datastore
 > • STS • Docker • Management API’s
 > • SQL • CSS • HTML • Unix • Docker
+
 Contributions and Achievements 🏆
 >  Active Reader of API community.
 ```
