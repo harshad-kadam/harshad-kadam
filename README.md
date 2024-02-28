@@ -19,7 +19,7 @@ Feel free to explore my repositories for more projects and contributions!
 Feel free to explore my repositories for more projects and contributions!
 
 ## Skills and Technologies 💻
-
+```
 Programming Languages: 
 > • Advance: Java, Javascript
 > • Intermediate: c++
@@ -34,7 +34,7 @@ Tools and Technologies:
 > • SQL • CSS • HTML • Unix • Docker
 Contributions and Achievements 🏆
 >  Active Reader of API community.
-
+```
 ## Contributions and Achievements 🏆
 
 - [List any significant contributions to open-source projects or notable achievements]
