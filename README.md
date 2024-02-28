@@ -1,13 +1,15 @@
-# Welcome to Harshad Kadam's GitHub Profile! 👋
+# Hi 👋 My name is Harshad Kadam
+==============================
+Full Stack Devloper || [Apigee + ReactJs + Spring Boot + NOdeJs]
+-------------------
 
-Hi there! I'm Harshad Kadam, a passionate Full Stack Developer with a love for ReactJS, Spring-Boot, NodeJS, Apigee & Cutting Edge Technologies. Welcome to my GitHub profile!
-
-## About Me ℹ️
-
-- 💼 I'm currently working as a Apigee Developer.
-- 🌱 I'm constantly learning and exploring new technologies.
-- 📫 How to reach me: kadamharshad25@gmail.com
-
+*   🌱 I’m currently learning cutting Edge Technologies like GenAI, Web3
+*   💬 Ask me about anything related to Apigee, API Management, API Security , Traffic Management.
+*   🌍  I'm based in Pune
+*   🤝  I'm open to collaborating on Apigee, GenAI, WEB3 related projects
+*   🌱  Have a look at my Blockchain documentation [Notion](https://axatbhardwaj.notion.site/Blockchain-Research-Hub-3ccd1742ea184ede8bb9a79123bf9c75)
+*   ✉️  You can contact me at [kadamharshad25@gmail.com](mailto:kadamharshad25@gmail.com)
+  
 ## My Projects 🚀
 
 Here are some of the projects I've contributed to:
