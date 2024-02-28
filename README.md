@@ -34,9 +34,6 @@ Tools and Technologies:
 > • Beeceptor • Bigquery • Datastore
 > • STS • Docker • Management API’s
 > • SQL • CSS • HTML • Unix • Docker
-
-Contributions and Achievements 🏆
->  Active Reader of API community.
 ```
 ## Contributions and Achievements 🏆
 
