@@ -37,7 +37,7 @@ Tools and Technologies:
 ```
 ## Contributions and Achievements 🏆
 
-- [List any significant contributions to open-source projects or notable achievements]
+- Seeking for opportunities where I can prove my-self
 
 ## Connect with Me 🌐
 
