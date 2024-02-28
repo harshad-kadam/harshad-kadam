@@ -1,4 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/15384983/209981014-6ecdb9e1-aa45-477d-8d3a-1515ef0c0c63.gif)](https://rishavchanda.io)
+<!--
+https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
+-->
 <h1 align="center">Hi 👋, I'm Harshad Kadam</h1>
 <h3 align="center">Full Stack Devloper || [Apigee + ReactJs + Spring Boot + NodeJs]</h3>
 <!--
