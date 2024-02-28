@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshad Kadam</h1>
 <h3 align="center">Full Stack Devloper || [Apigee + ReactJs + Spring Boot + NodeJs]</h3>
-
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshad-kadam&label=Profile%20views&color=0e75b6&style=flat" alt="harshad-kadam" /> </p>
 --><!--
@@ -9,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/harshad_kadam19" target="blank"><img src="https://img.shields.io/twitter/follow/harshad_kadam19?logo=twitter&style=for-the-badge" alt="harshad_kadam19" /></a> </p>
 -->
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2973/screenshots/2917931/media/e417e86db978d8d8e7314da223eca856.gif"/>
+<img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/2973/screenshots/2917931/media/e417e86db978d8d8e7314da223eca856.gif"/>
 
 <!-- 
 https://cdn.dribbble.com/users/2973/screenshots/2917931/media/e417e86db978d8d8e7314da223eca856.gif
