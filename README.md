@@ -1,5 +1,6 @@
-<h1 align="center" style="color: #ff4500;">Hi 👋, I'm Harshad Kadam</h1>
-<h3 align="center" style="color: #008080;">Full Stack Developer || [Apigee + ReactJs + Spring Boot + NodeJs]</h3>
+<h1 align="center"><span style="color: #ff4500;">Hi 👋, I'm Harshad Kadam</span></h1>
+<h3 align="center"><span style="color: #008080;">Full Stack Developer || [Apigee + ReactJs + Spring Boot + NodeJs]</span></h3>
+
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshad-kadam&label=Profile%20views&color=0e75b6&style=flat" alt="harshad-kadam" /> </p>
 --><!--
