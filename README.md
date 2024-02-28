@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges"  align="center">
+<div id="badges" align="center">
   <a href="https://linkedin.com/in/harshad-kadam">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,11 +13,16 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshad-kadam&style=flat-square&color=blue" alt=""/>
+</p>
+
 <!--
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 https://user-images.githubusercontent.com/15384983/209981014-6ecdb9e1-aa45-477d-8d3a-1515ef0c0c63.gif
 -->
-<h1 align="center">Hi 👋, I'm Harshad Kadam</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Harshad Kadam</h1>
 <h3 align="center">Full Stack Devloper || [Apigee + ReactJs + Spring Boot + NodeJs]</h3>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshad-kadam&label=Profile%20views&color=0e75b6&style=flat" alt="harshad-kadam" /> </p>
