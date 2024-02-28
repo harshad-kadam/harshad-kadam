@@ -1,6 +1,9 @@
-[![MasterHead](https://user-images.githubusercontent.com/15384983/209981014-6ecdb9e1-aa45-477d-8d3a-1515ef0c0c63.gif)](https://rishavchanda.io)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <!--
-https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+https://user-images.githubusercontent.com/15384983/209981014-6ecdb9e1-aa45-477d-8d3a-1515ef0c0c63.gif
 -->
 <h1 align="center">Hi 👋, I'm Harshad Kadam</h1>
 <h3 align="center">Full Stack Devloper || [Apigee + ReactJs + Spring Boot + NodeJs]</h3>
