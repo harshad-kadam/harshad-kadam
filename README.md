@@ -7,7 +7,6 @@ Full Stack Devloper || [Apigee + ReactJs + Spring Boot + NodeJs]
 *   💬 Ask me about anything related to Apigee, API Management, API Security , Traffic Management.
 *   🌍  I'm based in Pune
 *   🤝  I'm open to collaborating on Apigee, GenAI, WEB3 related projects
-*   🌱  Have a look at my Blockchain documentation [Notion](https://axatbhardwaj.notion.site/Blockchain-Research-Hub-3ccd1742ea184ede8bb9a79123bf9c75)
 *   ✉️  You can contact me at [kadamharshad25@gmail.com](mailto:kadamharshad25@gmail.com)
   
 ## My Projects 🚀
