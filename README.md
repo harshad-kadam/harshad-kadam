@@ -23,13 +23,13 @@ https://cdn.dribbble.com/userupload/10965471/file/original-da498c846568e8eb57fa8
 https://cdn.dribbble.com/users/2012986/screenshots/10836334/image.gif 
 -->
 
-- 🌱 I’m currently learning **cutting edge technologies like `GenAI` & `Web3`**
+- 🌱 I’m currently learning **`GenAI` & `Web3`**
 
-- 🤝 I'm open to collaborating on Apigee, GenAI, WEB3 related projects
+- 🤝 I'm open to collaborate on Apigee, GenAI & WEB3 projects
 
 - 👨‍💻 All of my projects are available at [`Github Repositories`](https://github.com/harshad-kadam?tab=repositories)
 
-- 💬 Ask me about **`Apigee`, `API Management`, `API Security`, `Traffic Management`**
+- 💬 Ask me about **`Apigee`, `API Security`, `Traffic Management`**
 
 - ✉️ You can contact me at [`kadamharshad25@gmail.com`](mailto:kadamharshad25@gmail.com)
 
