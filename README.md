@@ -101,24 +101,23 @@ https://cdn.dribbble.com/users/2012986/screenshots/10836334/image.gif
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshad-kadam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-radical
 -->
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshad-kadam&hide=less,scss,hack&show_icons=true&theme=outrun&layout=compact&langs_count=8" alt="harshad-kadam GitHub stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshad-kadam&hide=less,scss,hack&show_icons=true&theme=radical&layout=compact&langs_count=8" alt="harshad-kadam GitHub stats"/>
     </td>
     <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshad-kadam&theme=outrun" alt="harshad-kadam GitHub profile summary"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshad-kadam&theme=radical" alt="harshad-kadam GitHub profile summary"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=harshad-kadam&count_private=true&count_public=true&show_icons=true&&theme=outrun&include_all_commits=true" alt="harshad-kadam GitHub stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=harshad-kadam&count_private=true&count_public=true&show_icons=true&&theme=radical&include_all_commits=true" alt="harshad-kadam GitHub stats"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=harshad-kadam&theme=outrun" alt="harshad-kadam GitHub streak stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=harshad-kadam&theme=radical" alt="harshad-kadam GitHub streak stats"/>
     </td>
   </tr>
 </table>
