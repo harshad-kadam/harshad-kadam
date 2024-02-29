@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/15384983/209981014-6ecdb9e1-aa45-477d-
 <p align="left"> <a href="https://twitter.com/harshad_kadam19" target="blank"><img src="https://img.shields.io/twitter/follow/harshad_kadam19?logo=twitter&style=for-the-badge" alt="harshad_kadam19" /></a> </p>
 -->
 
-<img align="right" alt="Coding" width="390" height="260" src="https://cdn.dribbble.com/users/2973/screenshots/2917931/media/e417e86db978d8d8e7314da223eca856.gif"/>
+<img align="right" alt="Coding" width="400" height="265" src="https://cdn.dribbble.com/users/2973/screenshots/2917931/media/e417e86db978d8d8e7314da223eca856.gif"/>
 
 <!-- 
 https://cdn.dribbble.com/users/2973/screenshots/2917931/media/e417e86db978d8d8e7314da223eca856.gif
