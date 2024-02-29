@@ -34,6 +34,7 @@
 - 📄 Know about my experiences [`Harshad Kadam Resume`](https://github.com/harshad-kadam/Enhanced-Deedy-Resume/blob/main/Harshad_Kadam_Resume_Apigee_Developer__v1.pdf)
 
 - ⚡ IMP fact **I never stick to any `tech-stack`, I just focus on `problem solving`**
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -95,6 +96,8 @@
 		<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 	</a>
 </p>
+
+---
 
 ### :fire: My Github Stats :
 
