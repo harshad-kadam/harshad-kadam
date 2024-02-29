@@ -95,7 +95,7 @@ https://cdn.dribbble.com/users/2012986/screenshots/10836334/image.gif
 -->
 ---
 
-### :fire: My Stats :
+### :fire: My Github Stats :
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshad-kadam&theme=dark&background=000000)](https://git.io/streak-stats)
 
