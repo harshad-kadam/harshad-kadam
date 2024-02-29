@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-<!--   <a href="https://linkedin.com/in/harshad-kadam">
+ <a href="https://linkedin.com/in/harshad-kadam">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.leetcode.com/harshad_k">
@@ -11,8 +11,9 @@
   </a>
   <a href="https://twitter.com/harshad_kadam19">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
+  </a>
 
+<!--
 <a href="https://linkedin.com/in/harshad-kadam" alt="linkedIn" target="_blank">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-linkedin.svg" height="40" />
 </a>
@@ -22,6 +23,8 @@
 <a href="https://www.leetcode.com/harshad_k">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
 </a>
+-->
+
 </div>
 
 <p align="center">
